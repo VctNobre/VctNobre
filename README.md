@@ -1,6 +1,6 @@
 ## Hello World! Eu sou Vicente Nobre 😉
 
-- 🔭 Contribuindo no Projeto SCIENCE 
+- 🔭 Me tornando Frontend Developer
 - 🌱 Aprendendo Java e JavaScript 
 - ⚡ learn and learn
  
