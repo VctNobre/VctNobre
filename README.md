@@ -1,7 +1,7 @@
 ## Hello World! Eu sou Vicente Nobre 😉
 
-- 🔭 Me tornando Frontend Developer
-- 🌱 Node/JavaScript/Tailwind
+- 🔭 Frontend Developer
+- 🌱 /React/Tailwind/Node/SQL
 - ⚡ learn and learn
  
  <div>
